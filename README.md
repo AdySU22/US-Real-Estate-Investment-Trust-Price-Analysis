@@ -20,9 +20,10 @@ To run this notebook, follow these steps:
    ```bash
    cd US-Real-Estate-Investment-Trust-Price-Analysis
 
-4. **Install the Required Libraries:**
+3. **Install the Required Libraries:**
    If you don't have the required libraries installed, create a virtual environment and install the dependencies using:
-   `pip install -r requirements.txt`
+   ```bash
+   pip install -r requirements.txt
 
 5. **Run the Jupyter Notebook:**
    To open and run the Jupyter notebook, use the following command:
