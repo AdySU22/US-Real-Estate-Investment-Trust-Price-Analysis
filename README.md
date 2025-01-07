@@ -17,15 +17,17 @@ To run this notebook, follow these steps:
    git clone https://github.com/your-username/repository-name.git
 2. **Navigate to the Project Folder:**
    Change to the project directory:
-   cd `US-Real-Estate-Investment-Trust-Price-Analysis`
+   ```bash
+   cd US-Real-Estate-Investment-Trust-Price-Analysis
 
-3. **Install the Required Libraries:**
+4. **Install the Required Libraries:**
    If you don't have the required libraries installed, create a virtual environment and install the dependencies using:
    `pip install -r requirements.txt`
 
-4. **Run the Jupyter Notebook:**
+5. **Run the Jupyter Notebook:**
    To open and run the Jupyter notebook, use the following command:
-   `jupyter notebook House_Sales_in_King_Count_USA.ipynb`
+   ```bash
+   jupyter notebook House_Sales_in_King_Count_USA.ipynb
 
 ## Dataset Source
 
